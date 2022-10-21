@@ -1,0 +1,30 @@
+.experience__section__title {
+  text-align: center;
+  font-size: 32px;
+  line-height: 38px;
+  margin: 1.5rem;
+}
+.experience__info {
+  align-self: center;
+}
+.experience__box {
+  gap: 16px;
+  width: 1324px;
+  display: flex;
+  gap: 16px;
+  justify-content: end;
+  justify-content: end;
+  padding-top: 2rem;
+}
+.experience__title {
+  width: 368px;
+  font-size: 22px;
+  line-height: 26px;
+}
+.experience__img {
+  margin-bottom: 2rem;
+  height: 406px;
+}
+.experience__box:nth-child(odd) .experience__img  {
+  order: 1;
+}

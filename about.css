@@ -1,0 +1,24 @@
+.about {
+  display: flex;
+  align-items: flex-start;
+  background-color: var(--cor-de-franja);
+}
+.about__container {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  width: 1136px;
+  height: 332px;
+  align-items: center;
+  text-align: left;
+  gap: 16px;
+}
+
+.about__title {
+  font-size: 32px;
+  width: 751px;
+}
+.about__paragraph {
+  line-height: 19px;
+  width: 751px;
+}

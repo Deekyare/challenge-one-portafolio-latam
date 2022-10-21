@@ -1,0 +1,37 @@
+.academic {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  width: 1440px;
+  background: #eaf2fd;
+  margin-top: 4rem;
+}
+.academic__title {
+  text-align: center;
+  font-size: 32px;
+  line-height: 38px;
+  margin: 2rem;
+}
+
+.academic__courses {
+  justify-content: center;
+  display: flex;
+  gap: 8px;
+  height: 347px;
+  align-items: flex-start;
+  width: 1136px;
+}
+
+.academic__courses__box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  width: 328px;
+  background: #ffffff;
+}
+.academic__courses__item__title {
+  font-size: 22px;
+  line-height: 26px;
+}

@@ -1,0 +1,29 @@
+.formcontato {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px;
+  width: 1440px;
+  background: #eaf2fd;
+}
+.formcontato__contacto {
+  display: flex;
+  gap: 16px;
+  width: 1183px;
+  align-items: center;
+}
+.formcontato__form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+    padding: 25px;
+}
+.formcontato__input {
+  width: 656px;
+  height: 56px;
+  color: #2A7AE4;
+}
+.formcontato__textarea {
+  width: 656px;
+  height: 133px;
+}

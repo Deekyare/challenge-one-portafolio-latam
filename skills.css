@@ -1,0 +1,27 @@
+.skills__title {
+  text-align: center;
+  font-size: 32px;
+  line-height: 38px;
+}
+
+.skills__line {
+  display: flex;
+  justify-content: space-evenly;
+  width: 1136px;
+  margin: 1rem;
+}
+
+.skills__box {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 176px;
+  height: 174px;
+  background: #ffffff;
+}
+.skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem;
+}

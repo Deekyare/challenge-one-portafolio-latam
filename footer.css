@@ -1,0 +1,10 @@
+.footer {
+  justify-content: center;
+  padding: 32px;
+  width: 1440px;
+  background: #ffffff;
+}
+
+.footer__rodape {
+  text-align: center;
+}

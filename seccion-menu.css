@@ -1,0 +1,23 @@
+.menu__title {
+  display: inline-block;
+  align-items: center;
+}
+
+.menu__list__item {
+  display: inline;
+  margin-right: 1.25rem;
+}
+.menu__list__item .bold {
+  display: inline;
+}
+.menu{
+  height: 88px;
+  gap: 270;
+}
+.menu__header{
+  display: flex;
+}
+.menu__list{
+  white-space: nowrap;
+
+}

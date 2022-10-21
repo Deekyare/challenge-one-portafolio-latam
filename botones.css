@@ -1,0 +1,27 @@
+.experience__botao--demo {
+  background-color: var(--cor-btn-);
+  width: 105px;
+  height: 51px;
+  color: white;
+  border: none;
+  font-weight: lighter;
+}
+
+.experiencia__botao--repo {
+  background-color: white;
+  width: 105px;
+  height: 51px;
+  color: var(--cor-btn-);
+  border: solid 1px;
+  border-block-color: var(--cor-btn-);
+}
+.formcontato__botao {
+  background-color: var(--cor-btn-);
+height: 40px;
+  width: 133px;
+  color: white;
+  border: none;
+  font-weight: lighter;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,44 @@
+.title {
+  height: 368px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+  gap: 208px;
+  width: 1136px;
+  margin-bottom: 4rem;
+}
+
+.title__div {
+  display: flex;
+  justify-content: space-between;
+  width: 751px;
+  height: 246px;
+}
+
+.title__profile {
+  order: 1;
+  border-radius: 100%;
+}
+
+.title__bio {
+  margin-block-start: -1px rem;
+  width: 751px;
+
+  font-size: 52px;
+  line-height: 61px;
+}
+.title__subsection {
+  font-size: 22px;
+  line-height: 26px;
+}
+.title__network {
+  display: flex;
+  padding: 0px;
+  gap: 32px;
+}
+.title__container{
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
